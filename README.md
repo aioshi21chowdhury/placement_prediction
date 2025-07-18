@@ -4,8 +4,8 @@ This project predicts whether a student is likely to be placed or not, based on 
 
 ## 🚀 Live App
 
-🌐 **[Click here to try it](https://placement-prediction.onrender.com)**  
-_(Replace with your actual Render URL if needed)_
+🌐 **[Click here to try it](https://placement-prediction-h9ou.onrender.com)**  
+_
 
 ---
 
