@@ -61,4 +61,4 @@ Predict placement outcomes based on student features using machine learning.
 ✅ **Solution**:
 - Explicitly specified the Python version **3.11.8** using a `runtime.txt` file in the root of the project:
   ```txt
-  python-3.11.8
+  python-3.11.0
